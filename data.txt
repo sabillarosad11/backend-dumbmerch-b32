@@ -1,0 +1,7 @@
+PATH_FILE=http://localhost:5003/uploads/
+
+SECRET_KEY=batch32siangbebasapasajadotcom
+MIDTRANS_CLIENT_KEY=SB-Mid-client-2BP9jSnwHOFJRCfZ
+MIDTRANS_SERVER_KEY=SB-Mid-server-OCf_Tx1v77ZNd06_CGzgEmIi
+SYSTEM_EMAIL=abiienawas@gmail.com
+SYSTEM_PASSWORD=uhibbuki
